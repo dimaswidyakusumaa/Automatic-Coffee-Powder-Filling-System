@@ -37,10 +37,13 @@ The **Automatic Coffee Powder Filling System** is an academic project developed 
 
 ---
 
-## 📄 Documentation
+## 📄 Project Documentation
 
-The complete project report is available in the **Documentation** folder.
+The complete project report is available below.
 
+📘 **Project Report (PDF)**
+
+[📥 View Project Report] (./Rancang Bangun Pengisian Serbuk Kopi Otomatis Menggunakan Kontrol PID Menggunakan Sensor Load Cell dan Ultrasonik Berbasis Arduino Berdasarkan Berat.pdf)
 ---
 
 ## 📚 Academic Information
