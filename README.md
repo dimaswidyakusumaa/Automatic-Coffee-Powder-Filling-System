@@ -43,7 +43,7 @@ The complete project report is available below.
 
 📘 **Project Report (PDF)**
 
-[📥 View Project Report] (./Rancang Bangun Pengisian Serbuk Kopi Otomatis Menggunakan Kontrol PID Menggunakan Sensor Load Cell dan Ultrasonik Berbasis Arduino Berdasarkan Berat.pdf)
+[📥 View Project Report](./Automatic_Coffee_Powder_Filling_System_Report.pdf)
 ---
 
 ## 📚 Academic Information
